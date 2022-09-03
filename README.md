@@ -1,7 +1,8 @@
 # Bubble-Buddies
 https://apatton090.github.io/Bubble-Buddies/
 
-Source code for "Bubble Buddies" game on Google Play store:
+Source code for "Bubble Buddies" game for Android on Google Play store:
+
 https://play.google.com/store/apps/details?id=com.daflamingpotato.BubbleBuddies&hl=en_US&gl=US
 
 Bubble Buddies v1.22
