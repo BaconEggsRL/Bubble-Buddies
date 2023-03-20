@@ -1,5 +1,5 @@
 # Bubble-Buddies
-https://apatton090.github.io/Bubble-Buddies/
+https://BaconEggsRL.github.io/Bubble-Buddies/
 
 Source code for "Bubble Buddies" game for Android on Google Play store:
 
