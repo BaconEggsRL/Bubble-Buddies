@@ -1,8 +1,9 @@
 # Bubble-Buddies
+
+Play the web version here:
 https://BaconEggsRL.github.io/Bubble-Buddies/
 
-Source code for "Bubble Buddies" game for Android on Google Play store:
-
+Downlod mobile version for Android on Google Play store:
 https://play.google.com/store/apps/details?id=com.daflamingpotato.BubbleBuddies&hl=en_US&gl=US
 
 ![icon.png](https://github.com/BaconEggsRL/Bubble-Buddies/blob/main/icon.png?raw=true)
